@@ -9,9 +9,9 @@ p {
 
 .croissant-photo {
   max-width: 30%;
-  border-radius: 10px;
+  border-radius: 5px;
   display: block;
-  margin: 30px auto;
+  margin: 20px auto;
 }
 
 footer {
